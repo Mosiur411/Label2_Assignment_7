@@ -103,4 +103,3 @@ DELETE FROM customers
 WHERE id NOT IN (
     SELECT DISTINCT customer_id FROM orders
 );
-public.books, public.customers, public.orderspublic.books, public.customers, public.orderspublic.books, public.customers, public.orders
