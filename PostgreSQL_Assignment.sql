@@ -1,4 +1,4 @@
-﻿-- Active: 1742315199235@@127.0.0.1@5432@bookstore_db
+﻿-- DataBase Name:  bookstore_db
 
 -- 1. Create Books Table
 DROP TABLE IF EXISTS books CASCADE;
